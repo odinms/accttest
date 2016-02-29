@@ -14,4 +14,4 @@
 4.自由设置各种题型的分数。
 
 程序演示：
-http://www.geekzy.cn/?p=35686
+http://www.geekzy.cn/
